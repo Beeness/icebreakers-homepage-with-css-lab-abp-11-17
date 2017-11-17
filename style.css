@@ -5,7 +5,8 @@ body {
   padding: 0 30px 0 30px;
 }
 nav {
-  header-height: 100px;
+  header
+: 100px;
   border-bottom: 1px;
   color: #ccc;
 }
