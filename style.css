@@ -4,3 +4,8 @@
 body {
   padding: 0 30px 0 30px;
 }
+nav {
+  header: 100px;
+  border-bottom: 1px;
+  color: #ccc;
+}
