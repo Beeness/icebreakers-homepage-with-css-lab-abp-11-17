@@ -24,6 +24,10 @@ nav ul li {
   margin-right: 10px;
 }
 
+nav a {
+  text-decoration: none #007bff 18px;
+}
+
 nav a:hover {
   text-decoration: unlerline #0056b3;
 }
